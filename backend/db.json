@@ -1,0 +1,54 @@
+{
+  "blogPosts": [
+    {
+      "title": "Marketten Alincaklar",
+      "content": "Domates\nSalatalik\nEkmek\nSüt\nYumurta\nPeynir\nYoğurt\nTereyağı veya margarin\nPirinç\nMakarna\nUn\nŞeker\nTuz\nYağ (zeytinyağı, ayçiçek yağı vb.)\nKonserve sebzeler (mısır, bezelye, vb.)\nKuru baklagiller (mercimek, nohut, fasulye)\n\nTavuk veya kırmızı et\nSosis veya salam\nSüt ürünleri (peynir, yoğurt, krema)\n\nBulaşık deterjanı\nÇamaşır deterjanı\nSabun\nŞampuan\nDiş macunu\nTuvalet kağıdı\n\nKraker\nÇikolata\nCips\nÇay veya kahve\nMeyve suyu",
+      "id": 6
+    },
+    {
+      "title": "Okunacak Kitaplar",
+      "content": "Savaş ve Barış\" - Lev Tolstoy\n\"Anna Karenina\" - Lev Tolstoy\n\"Suç ve Ceza\" - Fyodor Dostoyevski\n\"Karamazov Kardeşler\" - Fyodor Dostoyevski\n\"Medeniyetler Çatışması\" - Samuel P. Huntington\n\"Yüzüklerin Efendisi\" - J.R.R. Tolkien\n\"Hobbit\" - J.R.R. Tolkien\n\"1984\" - George Orwell\n\"Hayvan Çiftliği\" - George Orwell\n\"Brave New World\" - Aldous Huxley\n\"Gurur ve Önyargı\" - Jane Austen\n\"Aşk ve Gurur\" - Jane Austen\n\"Jane Eyre\" - Charlotte Brontë\n\"Wuthering Heights\" - Emily Brontë\n\"Moby Dick\" - Herman Melville\n\"Ulysses\" - James Joyce\n\"İstanbul Hatırası\" - Ahmet Ümit\n\"Bülbülü Öldürmek\" - Harper Lee\n\"Dönüşüm\" - Franz Kafka\n\"Bir Delinin Hatıra Defteri\" - Nikolay Gogol\n\"Siddhartha\" - Hermann Hesse\n\"Küçük Prens\" - Antoine de Saint-Exupéry\n\"Dracula\" - Bram Stoker\n\"Frankenstein\" - Mary Shelley\n\"Don Kişot\" - Miguel de Cervantes\n",
+      "id": 7
+    },
+    {
+      "title": "Psikoloji ve Kişisel Gelişim\n",
+      "content": "Psikolojik İyilik Hali - Martin Seligman\nDüşünme Hızımız - Daniel Kahneman\nDüşünce Gücüyle Tedavi- Norman Vincent Peale\nKendine Yardım - Dale Carnegie\nKişisel Gelişim\" - Stephen R. Covey\nİkna Sanatı - Robert Cialdini\nZihin ve Bilinç - Steven Pinker\nBedenin Zihni - Jon Kabat-Zinn\nKarma - John Kabat-Zinn\nHayatın Anlamı - Viktor Frankl\nDüşün ve Zenginleş - Napoleon Hill\nKişisel Güç - Tony Robbins",
+      "id": 8
+    },
+    {
+      "title": "Mavi",
+      "content": "Miav T-shirt al",
+      "id": 9
+    },
+    {
+      "title": "Ayakkabi lazim",
+      "content": "1 sandalet,\n1 spor ayakkabisi ",
+      "id": 10
+    },
+    {
+      "title": "Izlenecek film",
+      "content": "Suçlular Takimi",
+      "id": 11
+    },
+    {
+      "title": "Akilli Su Sisteminde kullanilan araclar \nve fiyatlar",
+      "content": "Hortum 35\nSürahi 35\nHuni 25\nPnömatik bağlantı parçası (hortum + sensör için) 16\nManşon ( Vana sensör) 20\nKutu 0\nJumper kablo\nLehim 0\n2 micro USB 60\nAdaptör 30\nYf s201 / B 500\nSelenoid vana 250\nEsp 32 Dev Module 450\nRöle 50\n\nSensör tamiri 50",
+      "id": 12
+    },
+    {
+      "title": "Toplantı Notları\n",
+      "content": "Toplantı tarihi: 27 Ağustos 2024. - Katılımcılar: Ali, Ayşe, Ahmet. - Konular: Yeni projeler, bütçe revizyonu, görev dağılımı.",
+      "id": 13
+    },
+    {
+      "title": "Öneriler ve Fikirler",
+      "content": "Yeni bir özellik ekleme. - Kullanıcı geri bildirimlerini analiz etme. - Mobil uygulama performansını iyileştirme",
+      "id": 14
+    },
+    {
+      "title": "Uygulama",
+      "content": "Bu uygulama React-native ile yapilmistir, React-Native ögrenme surecimdeki 2. Projemdir.",
+      "id": 15
+    }
+  ]
+}
